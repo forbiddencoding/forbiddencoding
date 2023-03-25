@@ -1,12 +1,13 @@
 <body>
     <center>
         <h1 align="center">
+            <img src="assets/logo_standalone.png" height="64" width="64" />
             <a href="https://git.io/typing-svg">
-                <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=FF7801&center=true&vCenter=true&repeat=false&width=435&lines=Hiya%2C+forbiddencoding+here+%F0%9F%91%8B" alt="Typing SVG" />
+                <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=FF7801&center=true&vCenter=true&repeat=false&width=435&lines=Hiya%2C+forbiddencoding+here" alt="Typing SVG" />
             </a>
         </h1>
         <div align="center">
-            <div align="center">I'm a full-stack webdeveloper from Germany, interested in everything web development, pc hardware, gaming and anime. I use Arch, btw!</div>
+            <div align="center">I'm a full-stack web developer from the Black Forest, interested in everything web development, pc hardware, gaming and anime</div>
         </div>
         <br>
         <div align="center">
@@ -14,9 +15,8 @@
         </div>
         <div align="center">
             <div align="center">
-                <img src="./Komi_holding_Go_Programming_Language.jpg" align="right" width="500" style="margin-bottom: 24px"/>
+                <img src="assets/Komi_holding_Go_Programming_Language.jpg" align="right" width="400"/>
             </div>
-            <br>
             <br>
             <br>
             <p align="center">
@@ -34,5 +34,9 @@
                 <img alt="Docker" src="https://img.shields.io/badge/-Yarn-informational?style=for-the-badge&logo=yarn&logoColor=white&color=2C8EBB" />
             </p>
         </div>
+<div align="center">
+<h2></h2>
+</div>
+        <div align="center">Made in the Black Forest with foxes in mind.</div>
     </center>
 </body>
