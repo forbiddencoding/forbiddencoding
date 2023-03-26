@@ -10,7 +10,6 @@
 <div align="center">I'm a full-stack web developer from the Black Forest, interested in everything web development, pc hardware, gaming and anime</div>
 
 <br/>
-<br/>
 
 ## <p align=center>Technologies && Tools</p>
 
@@ -38,7 +37,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
 ## <p align="center">Current Setup</p>
 
@@ -47,8 +45,9 @@
 <br/>
 <br/>
 
-## <p align="center">"It works on my machine"</p>
+<p align="center">"It works on my machine"</h1>
 
+<br/>
 <br/>
 <br/>
 
