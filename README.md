@@ -40,11 +40,9 @@
 <img src="assets/works_on_my_machine.jpeg" align="left" height="250"/>
 
 <br/>
-<br/>
 
 <p align="center">"It works on my machine"</h1>
 
-<br/>
 <br/>
 <br/>
 
