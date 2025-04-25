@@ -10,7 +10,7 @@
 
 <div align="center">I'm a full-stack developer from the Black Forest, interested in everything programming, pc hardware, gaming and anime.</div>
 
-<h2 align=center>Technologies <i>&&</i> Tools</h2>
+<h2 align="center">Technologies <i>&&</i> Tools</h2>
 
 <p align="center">A selection of my current and most used programming languages, frameworks, and tools.</p>
 <p align="center">Perhaps you know the one or the other?</p>
@@ -22,10 +22,9 @@
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-informational?style=for-the-badge&logo=angular&logoColor=DD0031&color=27272A" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=4169E1&color=27272A" />
 <img alt="temporal.io" src="https://img.shields.io/badge/-Temporal-informational?style=for-the-badge&logo=temporal&logoColor=white&color=27272A" />
-<img alt="Redis" src="https://img.shields.io/badge/-Redis-informational?style=for-the-badge&logo=redis&logoColor=DC382D&color=27272A" />
-<img alt="Yarn" src="https://img.shields.io/badge/-Yarn-informational?style=for-the-badge&logo=yarn&logoColor=2C8EBB&color=27272A" />
+<img alt="Terraform" src="https://img.shields.io/badge/-Terraform-informational?style=for-the-badge&logo=terraform&logoColor=844FBA&color=27272A" />
+<img alt="Ansible" src="https://img.shields.io/badge/-Ansible-informational?style=for-the-badge&logo=ansible&logoColor=EE0000&color=27272A" />
 </p>
-<p align="center">And many obligatory things <b>more</b>, like: Git, HTML, CSS3, JavaScript, etc.</p>
 
 <h2 align="center">It <i>wörks</i> on my machine!</h2>
 
